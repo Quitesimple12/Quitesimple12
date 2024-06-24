@@ -2,14 +2,14 @@
 <h3 align="center">Full-Stack Developer with a strong foundation collaborating in front-end and back-end development projects and 4 years of professional experience</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Quite_simple12&label=Profile%20views&color=0e75b6&style=flat" alt="Quite_simple12" />
-  <a href="https://github.com/Quite_simple12?tab=followers">
-    <img src="https://img.shields.io/github/followers/Quite_simple12?label=Followers&style=social" alt="GitHub Badge"/>
+  <img src="https://komarev.com/ghpvc/?username=Quitesimple12&label=Profile%20views&color=0e75b6&style=flat" alt="Quitesimple12" />
+  <a href="https://github.com/Quitesimple12?tab=followers">
+    <img src="https://img.shields.io/github/followers/Quitesimple12?label=Followers&style=social" alt="GitHub Badge"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Quite_simple12&show_icons=true&theme=radical" alt="Quite_simple12's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Quitesimple12&show_icons=true&theme=radical" alt="Quitesimple12's GitHub stats" />
 </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -63,9 +63,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Quite_simple12&show_icons=true&locale=en&layout=compact&theme=radical" alt="Quite_simple12" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Quitesimple12&show_icons=true&locale=en&layout=compact&theme=radical" alt="Quitesimple12" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Quite_simple12&theme=radical" alt="Quite_simple12" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Quitesimple12&theme=radical" alt="Quitesimple12" />
 </p>
