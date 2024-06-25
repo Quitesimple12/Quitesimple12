@@ -2,13 +2,6 @@
 <h3 align="center">Full-Stack Developer with a strong foundation collaborating in front-end and back-end development projects and 4 years of professional experience</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Quitesimple12&label=Profile%20views&color=0e75b6&style=flat" alt="Quitesimple12" />
-  <a href="https://github.com/Quitesimple12?tab=followers">
-    <img src="https://img.shields.io/github/followers/Quitesimple12?label=Followers&style=social" alt="GitHub Badge"/>
-  </a>
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Quitesimple12&show_icons=true&theme=radical" alt="Quitesimple12's GitHub stats" />
 </p>
 
